@@ -1,0 +1,17 @@
+{
+  "uuid": "64fa4d1a-163d-4634-83d1-1491050614db",
+  "shortName": "Accelerometer",
+  "longName": "Accelerometer",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
